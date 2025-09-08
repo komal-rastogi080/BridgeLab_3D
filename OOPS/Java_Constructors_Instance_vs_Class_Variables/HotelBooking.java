@@ -1,4 +1,6 @@
-public class HotelBooking {
+package Java_Constructors_Instance_vs_Class_Variables;
+
+class HotelBooking {
     String guestName;
     String roomType;
     int nights;
@@ -8,7 +10,7 @@ public class HotelBooking {
         roomType = "Standard";
         nights = 1;
     }
-//kjnfknfd
+
     HotelBooking(String guestName, String roomType, int nights) {
         this.guestName = guestName;
         this.roomType = roomType;

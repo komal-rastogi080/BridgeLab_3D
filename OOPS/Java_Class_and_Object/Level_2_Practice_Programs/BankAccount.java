@@ -1,4 +1,6 @@
-public class BankAccount {
+package Java_Class_and_Object.Level_2_Practice_Programs;
+
+class BankAccount {
     String accountHolder;
     String accountNumber;
     double balance;
@@ -8,7 +10,7 @@ public class BankAccount {
         this.accountNumber = accountNumber;
         this.balance = balance;
     }
-//oops completed
+
     void deposit(double amount) {
         if (amount > 0) balance += amount;
     }

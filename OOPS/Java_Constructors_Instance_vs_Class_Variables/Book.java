@@ -1,6 +1,6 @@
+package Java_Constructors_Instance_vs_Class_Variables;
 
-
-public class Book {
+class Book {
     String title;
     String author;
     double price;
@@ -23,7 +23,7 @@ public class Book {
     public static void main(String[] args) {
         Book book = new Book();
         book.title = "Java Programming";
-        book.author = "Komal";
+        book.author = "Ayush";
         book.price = 4.99;
         System.out.println(book);
     }

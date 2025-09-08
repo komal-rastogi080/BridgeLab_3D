@@ -1,5 +1,7 @@
-public class CarRental {
-     String customerName;
+package Java_Constructors_Instance_vs_Class_Variables;
+
+class CarRental {
+    String customerName;
     String carModel;
     int rentalDays;
     double costPerDay = 1000.0;

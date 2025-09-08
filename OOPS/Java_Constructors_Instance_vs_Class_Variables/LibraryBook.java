@@ -1,4 +1,6 @@
-public class LibraryBook {
+package Java_Constructors_Instance_vs_Class_Variables;
+
+class LibraryBook {
     String title;
     String author;
     double price;
@@ -26,3 +28,4 @@ public class LibraryBook {
         System.out.println(lb);
     }
 }
+

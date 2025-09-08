@@ -1,4 +1,6 @@
-public class MovieTicket {
+package Java_Class_and_Object.Level_2_Practice_Programs;
+
+class MovieTicket {
     String movieName;
     String seatNumber;
     double price;

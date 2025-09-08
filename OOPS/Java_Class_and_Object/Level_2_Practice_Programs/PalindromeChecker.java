@@ -1,4 +1,6 @@
-public class PalindromeChecker {
+package Java_Class_and_Object.Level_2_Practice_Programs;
+
+class PalindromeChecker {
     String text;
 
     PalindromeChecker(String text) {

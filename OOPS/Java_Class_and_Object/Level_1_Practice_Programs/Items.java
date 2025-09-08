@@ -1,4 +1,6 @@
-public class Items {
+package Java_Class_and_Object.Level_1_Practice_Programs;
+
+class Items {
     String itemCode;
     String itemName;
     double price;
@@ -24,3 +26,4 @@ public class Items {
         System.out.println(i2 + " | Total(3) = " + i2.totalCost(3));
     }
 }
+

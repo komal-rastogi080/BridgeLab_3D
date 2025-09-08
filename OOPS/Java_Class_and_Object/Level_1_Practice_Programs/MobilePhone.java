@@ -1,4 +1,6 @@
-public class MobilePhone {
+package Java_Class_and_Object.Level_1_Practice_Programs;
+
+class MobilePhone {
     String brand;
     String model;
     double price;

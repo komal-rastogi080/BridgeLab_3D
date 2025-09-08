@@ -1,5 +1,7 @@
-public class HandBook {
-     String title;
+package Java_Class_and_Object.Level_1_Practice_Programs;
+
+class HandBook {
+    String title;
     String author;
     double price;
 

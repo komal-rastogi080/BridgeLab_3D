@@ -1,5 +1,7 @@
-public class CartItem {
-     String itemName;
+package Java_Class_and_Object.Level_2_Practice_Programs;
+
+class CartItem {
+    String itemName;
     double price;
     int quantity;
 

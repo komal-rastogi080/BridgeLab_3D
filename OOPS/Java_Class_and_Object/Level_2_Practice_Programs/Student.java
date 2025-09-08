@@ -1,4 +1,6 @@
-public class Student {
+package Java_Class_and_Object.Level_2_Practice_Programs;
+
+class Student {
     String name;
     String rollNumber;
     double[] marks;

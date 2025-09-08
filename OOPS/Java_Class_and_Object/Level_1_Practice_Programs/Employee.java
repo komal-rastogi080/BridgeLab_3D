@@ -1,5 +1,6 @@
+package Java_Class_and_Object.Level_1_Practice_Programs;
 
-public class Employee {
+class Employee {
     String name;
     int id;
     double salary;
@@ -19,3 +20,4 @@ public class Employee {
         System.out.println(emp);
     }
 }
+

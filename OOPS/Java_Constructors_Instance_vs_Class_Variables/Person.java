@@ -1,4 +1,6 @@
-public class Person {
+package Java_Constructors_Instance_vs_Class_Variables;
+
+class Person {
     String name;
     int age;
 

@@ -1,4 +1,6 @@
-public class Circle {
+package Java_Class_and_Object.Level_1_Practice_Programs;
+
+class Circle {
     double radius;
 
     Circle(double radius) {
